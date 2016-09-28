@@ -8,7 +8,7 @@ package gui;
 import javax.swing.JOptionPane;
 import javax.swing.UIManager;
 import utils.CalculatorUtils;
-
+//calculator
 public class CalculatorUI extends javax.swing.JFrame {
 
 	private boolean clearDisplay = true;
